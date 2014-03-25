@@ -1,6 +1,6 @@
 {
   "name": "poweredby",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Sets X-Powered-By. That's All!",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "homepage": "https://github.com/bencevans/node-poweredby",
   "devDependencies": {
     "supertest": "^0.10.0",
-    "express": "^3.5.0"
+    "express": "^3.5.0",
+    "mocha": "^1.18.2"
   }
 }

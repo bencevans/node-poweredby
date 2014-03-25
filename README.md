@@ -1,5 +1,7 @@
 # poweredby
 
+[![Build Status](https://travis-ci.org/bencevans/node-poweredby.svg?branch=master)](https://travis-ci.org/bencevans/node-poweredby)
+
 ### Add a X-Powered-By Header:
 
 ```js
