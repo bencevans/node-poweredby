@@ -1,0 +1,31 @@
+{
+  "name": "poweredby",
+  "version": "0.1.0",
+  "description": "Sets X-Powered-By. That's All!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bencevans/node-poweredby.git"
+  },
+  "keywords": [
+    "Express",
+    "HTTP",
+    "Powered",
+    "By",
+    "Magic",
+    "Middleware"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/node-poweredby/issues"
+  },
+  "homepage": "https://github.com/bencevans/node-poweredby",
+  "devDependencies": {
+    "supertest": "^0.10.0",
+    "express": "^3.5.0"
+  }
+}
